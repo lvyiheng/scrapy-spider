@@ -7,4 +7,4 @@ Created on Fri Dec  6 17:36:25 2019
 
 li = [2,4,5,3,34]
 li.sort()
-print(li)
+print(list)
